@@ -1,0 +1,8 @@
+vsphere_server     = "example-vcenter.domain.com"
+vsphere_user       = "Administrator@vsphere.local"
+vsphere_password   = "Password123"
+datacenter         = "Example Datacenter"
+datastore          = "datastore1"
+cluster            = "example cluster"
+network_name       = "VM Network"
+template_name        = "VM Template"
